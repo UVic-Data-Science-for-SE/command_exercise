@@ -11,7 +11,7 @@ Leverage the **Command pattern** to design a RemoteControl class that controls d
 
 # Criteria
 
-1. Recall or research what the heck the Command Pattern is.
+1. Recall or research what the heck the [Command Pattern](https://refactoring.guru/design-patterns/command) is.
 2. Add a main method to your RemoteControl class demonstrating 
    1. the construction of a remote, 
    2. execution of the three color-changing light panel commands (on, change brightness to 10 (dim), and change color to blue), 
